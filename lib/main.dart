@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Video List Play Demo',
+      title: 'Video Channel',
       theme: ThemeData(
         primarySwatch: Colors.lime,
         visualDensity: VisualDensity.adaptivePlatformDensity,
@@ -47,7 +47,7 @@ class _IntroPageState extends State<IntroPage> {
                 height: 120,
               ),
               Text(
-                "Playing Video list Workout",
+                "Playing Video Channel",
                 style: TextStyle(
                   fontSize: 24.0,
                 ),

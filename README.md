@@ -1,30 +1,37 @@
-# flutter video list sample
-
-The flutter example playing video list.
+#  🔥🔥  Video Channel
+![appicon]<img src="ScreenShot/playstore.png"/>
 
 ## Getting Started
 
 This project is a example for a Flutter application.
 
-For testing iOS, you need to change the app identifier.
+Star⭐ the repo if you like what you see😉.
 
-#### pubs used
+## ✨ Requirements
+* Any Operating System (ie. MacOS X, Linux, Windows)
+* Any IDE with Flutter SDK installed (ie. IntelliJ, Android Studio, VSCode etc)
+* A little knowledge of Dart and Flutter
+* A brain to think 🤓🤓
 
+
+
+## Screenshots
+<p> <img src="ScreenShot/1.png" width="400"/>
+ <img src="ScreenShot/2.png" width="400">
+</p>
+
+
+## Installation
+
+#### 1. [Setup Flutter](https://flutter.dev/docs/get-started/install)
+
+#### 2. Clone the repo
+
+#### 3. Setup Those
 * [path_provider](https://pub.dev/packages/path_provider)
 * [video_player](https://pub.dev/packages/video_player)
 * [screen](https://pub.dev/packages/screen)
 
-#### Todo
 
-- [x] Switch video source, Play video list
-- [x] Handle Fullscreen
-- [x] Progress UI
-- [x] Volume mute UI
-- [x] Remained time
-
-
-#### Screenshots
-
-![Play List Screenshot](/Screenshot_1.png)
-
-![Fullscreen Screenshot](/Screenshot_2.png)
+## 🤓 Author(s)
+**Ayoub Ghoudan
